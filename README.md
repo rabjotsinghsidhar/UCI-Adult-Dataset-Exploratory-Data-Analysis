@@ -1,2 +1,5 @@
 # UCI-Adult-Dataset-Exploratory-Data-Analysis
 The purpose of this report is to identify meaningful insights from the UCI-Adult Dataset by performing an exploratory data analysis on it. The workflow is the same as the traditional data analytics, which includes obtaining, cleaning, analyzing, splitting data, and using the K-means Clustering algorithm for modelling.
+
+# UCI - Adult Dataset Description
+The UCI-Adult Dataset inculcates various factors that affect the annual income of an individual. It is influenced by an individual's age, education level, gender, occupation, etc. The Adult dataset is widely cited for the K-nearest Clustering Algorithm and is quite famous for data-pre- processing and machine learning practices. The dataset contains 14 feature columns and one target column: the 'salary' divided into two classes of salary above 50K and below 50K. "Extracted by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0))" (UCI Machine Learning Repository, Dataset Description).
